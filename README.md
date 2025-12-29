@@ -14,8 +14,6 @@ General: Git, GitHub, VS Code
 
 Fun Facts
 
-Hobbies: Gym, anime, Sports
-
+Hobbies: Gym, anime, Sports 
 I like Dogs
-
 Tea and Coffee Both
